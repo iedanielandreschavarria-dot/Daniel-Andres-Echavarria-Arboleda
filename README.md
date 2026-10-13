@@ -57,7 +57,6 @@ Actualmente busco una oportunidad para realizar mi **etapa productiva mediante u
         <img src="https://img.shields.io/badge/Ver_repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorio"/>
       </a>
     </td>
-
     <td width="33%" align="center">
       <h3>⚙️ Backend</h3>
       <p>
