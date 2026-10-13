@@ -57,26 +57,7 @@ Actualmente busco una oportunidad para realizar mi **etapa productiva mediante u
         <img src="https://img.shields.io/badge/Ver_repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorio"/>
       </a>
     </td>
-    <td width="33%" align="center">
-      <h3>⚙️ Backend</h3>
-      <p>
-        API REST desarrollada con Python, FastAPI, Pydantic y MySQL.
-      </p>
-      <a href="https://github.com/iedanielandreschavarria-dot/pixel_lienzo/tree/main/backend">
-        <img src="https://img.shields.io/badge/Ver_backend-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Ver backend"/>
-      </a>
-    </td>
-    <td width="33%" align="center">
-      <h3>🖥️ Frontend</h3>
-      <p>
-        Interfaz web desarrollada con React, TypeScript, Vite y Tailwind CSS.
-      </p>
-      <a href="https://github.com/iedanielandreschavarria-dot/pixel_lienzo/tree/main/frontend">
-        <img src="https://img.shields.io/badge/Ver_frontend-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="Ver frontend"/>
-      </a>
-    </td>
-  </tr>
-</table>
+  </table>
 
 <br />
 
