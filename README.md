@@ -42,24 +42,51 @@ Actualmente busco una oportunidad para realizar mi **etapa productiva mediante u
 
 ---
 
-## 🚀 Proyecto destacado
+---
 
-### 🎨 Pixel y Lienzo
+## 🚀 Proyectos destacados
 
-Plataforma web para la gestión y comercialización de obras de arte.
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <h3>🎨 Pixel y Lienzo</h3>
+      <p>
+        Plataforma web para la gestión, comercialización y trazabilidad de obras de arte.
+      </p>
+      <a href="https://github.com/iedanielandreschavarria-dot/pixel_lienzo">
+        <img src="https://img.shields.io/badge/Ver_repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorio"/>
+      </a>
+    </td>
 
-**Características principales:**
+    <td width="33%" align="center">
+      <h3>⚙️ Backend</h3>
+      <p>
+        API REST desarrollada con Python, FastAPI, Pydantic y MySQL.
+      </p>
+      <a href="https://github.com/iedanielandreschavarria-dot/pixel_lienzo/tree/main/backend">
+        <img src="https://img.shields.io/badge/Ver_backend-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Ver backend"/>
+      </a>
+    </td>
 
-- Registro y autenticación de usuarios.
-- Control de acceso basado en roles.
-- Gestión de artistas y obras.
-- Curaduría y publicación de obras.
-- Catálogo digital.
-- Integración de pagos con Wompi.
-- Gestión de envíos y estados logísticos.
-- Certificados de autenticidad.
-- Códigos QR y trazabilidad de obras.
-- API REST y arquitectura modular.
+    <td width="33%" align="center">
+      <h3>🖥️ Frontend</h3>
+      <p>
+        Interfaz web desarrollada con React, TypeScript, Vite y Tailwind CSS.
+      </p>
+      <a href="https://github.com/iedanielandreschavarria-dot/pixel_lienzo/tree/main/frontend">
+        <img src="https://img.shields.io/badge/Ver_frontend-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="Ver frontend"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/iedanielandreschavarria-dot/pixel_lienzo/tree/main/Doc">
+    <img src="https://img.shields.io/badge/Documentación_del_proyecto-C9A24B?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Documentación"/>
+  </a>
+</div>
 
 **Tecnologías utilizadas:**
 
