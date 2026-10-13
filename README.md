@@ -66,7 +66,6 @@ Actualmente busco una oportunidad para realizar mi **etapa productiva mediante u
         <img src="https://img.shields.io/badge/Ver_backend-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Ver backend"/>
       </a>
     </td>
-
     <td width="33%" align="center">
       <h3>🖥️ Frontend</h3>
       <p>
